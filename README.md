@@ -36,6 +36,9 @@ O foco é aplicar conceitos modernos de **JavaScript** e deixar o código organi
 
 ## 📸 Demonstração
 
+![img](https://github.com/moisesvinicius404/petboop/blob/main/img-pet-boop.png)
+
+
 
 
 
